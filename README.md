@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Md. Tariqul Islam 👋
 
-<!--
-**MeTariqul/MeTariqul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | CSE Student
 
-Here are some ideas to get you started:
+I'm a web developer from Bangladesh who enjoys building **clean, responsive, and user-friendly websites**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on writing practical code, creating good user experiences, and continuously improving my development skills.
+
+### What I Do
+
+* 🌐 Web Development
+* 💻 Frontend & Backend Development
+* 📱 Responsive Web Design
+* 🛠️ Problem Solving & Clean Code
+* 📚 Continuous Learning
+
+### Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, React
+**Backend:** Python, Django, Node.js
+**Database:** MySQL, PostgreSQL
+**Tools:** Git, GitHub, VS Code
+
+### Let's Connect
+
+🌐 [Portfolio](https://metariqul.vercel.app/)
+💼 [LinkedIn](https://www.linkedin.com/in/metariqul)
+🐙 [GitHub](https://github.com/MeTariqul)
+
+**Open to opportunities, collaborations, and freelance work.**
