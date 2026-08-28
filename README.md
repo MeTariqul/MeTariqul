@@ -6,6 +6,8 @@ I'm a web developer from Bangladesh who enjoys building **clean, responsive, and
 
 I focus on writing practical code, creating good user experiences, and continuously improving my development skills.
 
+🚀 **Check out my work and see what I can build.**
+
 ### What I Do
 
 * 🌐 Web Development
@@ -14,7 +16,6 @@ I focus on writing practical code, creating good user experiences, and continuou
 * 🛠️ Problem Solving & Clean Code
 * 📚 Continuous Learning
 
-🚀 **Check out my work and see what I can build.**
 
 ### Tech Stack
 
