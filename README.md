@@ -13,7 +13,8 @@ I focus on writing practical code, creating good user experiences, and continuou
 * 📱 Responsive Web Design
 * 🛠️ Problem Solving & Clean Code
 * 📚 Continuous Learning
-* 🚀 **Check out my work and see what I can build.**
+
+🚀 **Check out my work and see what I can build.**
 
 ### Tech Stack
 
