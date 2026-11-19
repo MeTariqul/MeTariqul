@@ -26,7 +26,7 @@ I focus on writing practical code, creating good user experiences, and continuou
 
 ### Let's Connect
 
-🌐 [Portfolio](https://metariqul.vercel.app/)
+🌐 [Portfolio](https://metariqul.xyz)
 💼 [LinkedIn](https://www.linkedin.com/in/metariqul)
 🐙 [GitHub](https://github.com/MeTariqul)
 
